@@ -6,7 +6,7 @@ I build insightful dashboards from data and leverage AI tools to deliver data-dr
 
 Outside of work, I:
 
-- Write about my projects and learning through technical blogs.
+- Write about my projects and learning through technical [blogs](https://github.com/raytiasha/ProjectBlogs/blob/main/README.md).
 - Build data analytics and AI projects for my [portfolio](https://github.com/raytiasha/My-Portfolio).
 - Contribute to open-source projects.
 - Explore real-world applications of AI and Generative AI.
