@@ -1,5 +1,12 @@
-### 👋 Hi, I'm Tiasha.
+### 👋 Hi, I'm Tiasha
 
-I help demand planning teams solve data, system, and process challenges by investigating workflow issues, analyzing data discrepancies, and improving planning system reliability through a combination of technical expertise and business understanding. Through this experience, I developed a strong interest in data analytics and using data to understand business performance, uncover operational inefficiencies, and support better decision-making.
+I build insightful dashboards from data and leverage AI tools to deliver data-driven business solutions.
 
-This GitHub profile showcases my data analytics projects, where I apply SQL, Power BI, and data storytelling to solve real business problems. If you'd like to explore my [work](https://github.com/raytiasha/My-Portfolio), you'll find examples of end-to-end analytics projects, including stakeholder-focused business analysis, KPI development, data exploration, dashboarding, and actionable business recommendations.
+- In 2026, I'm deepening my expertise in Python, Deep Learning, and Generative AI.
+
+Outside of work, I:
+
+- Write about my projects and learning through technical blogs.
+- Build data analytics projects for my [portfolio](https://github.com/raytiasha/My-Portfolio).
+* Continuously explore new AI tools and technologies.
+
