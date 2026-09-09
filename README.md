@@ -2,12 +2,11 @@
 
 I build insightful dashboards from data and leverage AI tools to deliver data-driven business solutions.
 
-- In 2026, I'm deepening my expertise in Python, Deep Learning, and Generative AI.
+- In 2026, I'm deepening my expertise in ML, Deep Learning, and Generative AI, with a growing focus on AI and GenAI engineering.
 
-Outside of work,
+Outside of work, I'm
 
-- I'm deepening my expertise in ML, AI and GenAI engineering.
 - Contributing to open-source projects.
-- Check out my work [here](https://github.com/raytiasha/My-Portfolio).
-- Sometimes, I write about my [projects](https://github.com/raytiasha/ProjectBlogs/blob/main/README.md) too!
-- I read psychological thrillers for fun!
+- Building and experimenting with personal [projects](https://github.com/raytiasha/My-Portfolio).
+- Occasionally, writing about what I [build](https://github.com/raytiasha/ProjectBlogs/blob/main/README.md).
+- Reading psychological thrillers for fun!
