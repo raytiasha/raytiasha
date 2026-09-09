@@ -4,7 +4,7 @@
 
 Outside of work, I'm
 
-- Contributing to open-source projects.
+- Contributing to open-source projects in ML.
 - Building and experimenting with personal [projects](https://github.com/raytiasha/My-Portfolio).
 - Occasionally, writing about what I [build](https://github.com/raytiasha/ProjectBlogs/blob/main/README.md).
 - Reading psychological thrillers for fun!
