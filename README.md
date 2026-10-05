@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Tiasha
 
-I ...
+I build production-grade AI systems with Generative AI, RAG, AI Agents, Azure AI, and Python.
 
-* Build production-ready AI solutions.
-* Specialize in Generative AI, RAG, AI Agents, Azure, and Python.
-* Continuously strengthen my expertise in Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Data Analysis.
+My focus is on turning LLMs into reliable, scalable applications through retrieval pipelines, agentic workflows, intelligent automation, and cloud-native AI architectures.
 
-My repositories feature a range of projects, from foundational examples to complex, real-world applications. You can explore my projects and contributions here.
+My GitHub showcases real-world AI engineering projects designed with production readiness, scalability, reliability, and business impact in mind.
